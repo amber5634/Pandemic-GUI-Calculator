@@ -14,6 +14,10 @@
 [Click here to view the latest numbers](https://www.mohfw.gov.in)
 
 
+> Screenshot of the Pandemic Calculator
+
+![pc](https://user-images.githubusercontent.com/30586187/86565498-9041ac00-bf85-11ea-831e-e7ee5665f515.PNG)
+
 
 
  
